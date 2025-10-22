@@ -49,7 +49,7 @@ data/
 ```
 
 - **RSNA ICH (2019):** https://www.kaggle.com/c/rsna-intracranial-hemorrhage-detection
-- **BHSD (2023):** https://bhsd-dataset.github.io
+- **BHSD (2023):** [https://bhsd-dataset.github.io](https://github.com/White65534/BHSD/blob/2ec4322a5a644494a312df891a3089bbf74c136a/README.md)
 
 ### 5️⃣ Run preprocessing
 ```bash
@@ -127,7 +127,7 @@ If you use this code, please cite:
 - Flanders AE *et al.*, *Radiology: Artificial Intelligence*, 2020.  
   https://doi.org/10.1148/ryai.2020190211
 - Wu B *et al.*, *MLMI Workshop (Springer)*, 2023.  
-  https://bhsd-dataset.github.io
+  [https://bhsd-dataset.github.io](https://github.com/White65534/BHSD/blob/2ec4322a5a644494a312df891a3089bbf74c136a/README.md)
 
 ---
 
